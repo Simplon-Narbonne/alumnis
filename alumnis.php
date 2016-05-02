@@ -1,4 +1,4 @@
-< ?php
+<?php
 /**
  * Plugin Name: Alumnis
  * Plugin URI: http://iness.simplon.co/alumnis.php
@@ -8,5 +8,3 @@
  * Author URI: http://iness.simplon.co
  * License: GPL v3
  */
-
- 
