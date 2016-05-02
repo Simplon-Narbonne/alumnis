@@ -8,3 +8,17 @@
  * Author URI: http://iness.simplon.co
  * License: GPL v3
  */
+
+
+ function inscription_alumnis( $atts ) {
+
+    $codehtml = '<label for="mon_id">
+    Chercher:
+    <input id="mon_id" type="text" />
+</label>';
+
+    return $codehtml;
+
+ }
+
+ add_shortcode( 'inscription_alumnis', 'inscription_alumnis' );
